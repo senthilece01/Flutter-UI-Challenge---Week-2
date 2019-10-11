@@ -4,7 +4,7 @@ A Flutter UI implementation of E-Scooter App inspired by [Panoply Store’s](ht
 
 ## 📸 Screenshot :
 
-i![Screen-1@3x](https://user-images.githubusercontent.com/10756609/66670803-3de29180-ec78-11e9-8b60-eb8cb522e3f7.png)
+![Screen-1@3x](https://user-images.githubusercontent.com/10756609/66670803-3de29180-ec78-11e9-8b60-eb8cb522e3f7.png)
 
 ## Requirements :
 
